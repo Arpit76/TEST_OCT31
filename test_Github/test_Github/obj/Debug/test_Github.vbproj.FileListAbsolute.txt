@@ -1,0 +1,8 @@
+C:\test_Github\test_Github\bin\test_Github.dll
+C:\test_Github\test_Github\bin\test_Github.pdb
+C:\test_Github\test_Github\bin\test_Github.xml
+C:\test_Github\test_Github\obj\Debug\test_Github.Resources.resources
+C:\test_Github\test_Github\obj\Debug\test_Github.vbproj.GenerateResource.Cache
+C:\test_Github\test_Github\obj\Debug\test_Github.dll
+C:\test_Github\test_Github\obj\Debug\test_Github.xml
+C:\test_Github\test_Github\obj\Debug\test_Github.pdb
